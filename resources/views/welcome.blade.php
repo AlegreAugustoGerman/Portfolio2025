@@ -124,7 +124,7 @@
                 <h2 class="text-3xl font-bold text-white  ">Web Projects</h2>
                 <div class="bg-white rounded-lg shadow-lg p-6 mb-4">
                     <h3 class="text-xl font-semibold mb-2">Gestión Apicultores</h3>
-                    <p class="text-gray-600">A fully responsive online store with AI-powered product recommendations.</p>
+                    <p class="text-gray-600">A fully responsive online monitoring productión using IOT and IA </p>
 {{--                     <img
                     src="2.jpg"
 
@@ -152,7 +152,7 @@
 
                 <div class="bg-white rounded-lg shadow-lg p-6">
                     <h3 class="text-xl font-semibold mb-2">Meteorologia Provincial</h3>
-                    <p class="text-gray-600">An AI-assisted tool for creating personalized portfolio websites.</p>
+                    <p class="text-gray-600">An AI-assisted tool for  predictions and structure stations , Api , Satelite data.</p>
 
 {{--                     <img
                     src="2.jpg"
@@ -204,14 +204,14 @@
                           href="#"
                           class="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
-                          View Project
+                        Project in Progress
                         </a>
-                        <a
+{{--                         <a
                           href="#"
                           class="inline-flex h-9 items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
                           GitHub
-                        </a>
+                        </a> --}}
                       </div>
 
                 </div>
@@ -234,14 +234,14 @@
                           href="#"
                           class="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
-                          View Project
+                        Project in Progress
                         </a>
-                        <a
+{{--                         <a
                           href="#"
                           class="inline-flex h-9 items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
                           GitHub
-                        </a>
+                        </a> --}}
                       </div>
             </div>
         </section>
